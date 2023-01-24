@@ -1,6 +1,6 @@
-## A Sierpiński triangle
+# A Sierpiński triangle
 
-# Sierpiński triangle Implementation with Rust and compile to webassembly target and render it in canvas
+## Sierpiński triangle Implementation with Rust and compile to webassembly target and render it in canvas
 https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle
 
 ## How to install
