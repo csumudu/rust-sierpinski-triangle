@@ -75,7 +75,7 @@ pub fn main_js() -> Result<(), JsValue> {
 
     let color = rgb_to_hex();
 
-    draw_sierpinski_triangle(&context, &pos_3, &size_3, &color, 20);
+    draw_sierpinski_triangle(&context, &pos_3, &size_3, &color, 10);
 
     Ok(())
 }
